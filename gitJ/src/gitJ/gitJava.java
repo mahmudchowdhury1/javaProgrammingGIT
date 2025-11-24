@@ -6,6 +6,8 @@ public class gitJava {
 		
 		
 		System.out.println("My name is mahmud");
+		System.out.println("My name is Husain");
+		System.out.println("My name is Chowdhury");
 	}
 
 }
